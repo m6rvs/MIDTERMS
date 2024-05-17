@@ -1,7 +1,7 @@
 #Video Game Rental System - Midterm Project for CS 121
 #Author: Mervin Debalucos
 
-#Dictionary to store game librar with quantity and cost
+#Dictionary to store game library with quantity and cost
 game_library = {"Donkey Kong": {"quantity": 3, "cost": 2}, "Super Mario Bros": {"quantity": 5, "cost": 3}, "Tetris": {"quantity": 2, "cost": 1}}
 #Dictionary to store user accounts with password, balance and games rented
 user_accounts = {}
